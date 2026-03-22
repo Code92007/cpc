@@ -1,0 +1,26 @@
+res:2
+idx:1 pre:1
+delidx:1 res:3
+idx:2 pre:1
+delidx:2 res:4
+idx:3 pre:1
+delidx:3 res:5
+idx:4 pre:1
+delidx:4 res:6
+6
+idx:2 pre:1
+delidx:2 res:4
+4
+idx:1 pre:1
+delidx:1 res:4
+idx:2 pre:1
+delidx:2 res:5
+idx:4 pre:1
+delidx:4 res:6
+6
+idx:1 pre:1
+delidx:1 res:5
+idx:2 pre:1
+delidx:2 res:6
+6
+4

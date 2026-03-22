@@ -1,0 +1,73 @@
+k:40 L:23 R:40 st:25 ed:25 hash:1
+k:40 ans:1 cnt:1 ans*k:40 cnt*k:40
+k:39 L:37 R:40 st:25 ed:26 hash:3
+k:39 ans:2 cnt:18 ans*k:78 cnt*k:702
+k:38 L:38 R:40 st:25 ed:27 hash:7
+k:38 ans:7 cnt:5 ans*k:266 cnt*k:190
+k:37 L:39 R:40 st:25 ed:28 hash:15
+k:37 ans:14 cnt:4 ans*k:518 cnt*k:148
+k:36 L:40 R:40 st:25 ed:29 hash:31
+k:36 ans:31 cnt:3 ans*k:1116 cnt*k:108
+k:35 L:41 R:40 st:25 ed:30 hash:63
+k:35 ans:62 cnt:2 ans*k:2170 cnt*k:70
+k:34 L:41 R:40 st:25 ed:31 hash:126
+k:34 ans:127 cnt:1 ans*k:4318 cnt*k:34
+k:33 L:41 R:40 st:25 ed:32 hash:253
+k:33 ans:253 cnt:1 ans*k:8349 cnt*k:33
+k:32 L:41 R:40 st:25 ed:33 hash:506
+k:32 ans:506 cnt:1 ans*k:16192 cnt*k:32
+k:31 L:41 R:40 st:25 ed:34 hash:1013
+k:31 ans:1012 cnt:1 ans*k:31372 cnt*k:31
+k:30 L:41 R:40 st:25 ed:35 hash:2026
+k:30 ans:2027 cnt:1 ans*k:60810 cnt*k:30
+k:29 L:41 R:40 st:25 ed:36 hash:4053
+k:29 ans:4053 cnt:1 ans*k:117537 cnt*k:29
+k:28 L:41 R:40 st:25 ed:37 hash:8106
+k:28 ans:8106 cnt:1 ans*k:226968 cnt*k:28
+k:27 L:41 R:40 st:25 ed:38 hash:16213
+k:27 ans:16212 cnt:1 ans*k:437724 cnt*k:27
+k:26 L:41 R:40 st:25 ed:39 hash:32426
+k:26 ans:32427 cnt:1 ans*k:843102 cnt*k:26
+k:25 L:41 R:40 st:25 ed:40 hash:64853
+k:25 ans:64853 cnt:1 ans*k:1621325 cnt*k:25
+k:24 L:36 R:35 st:23 ed:39 hash:97962
+k:24 ans:97962 cnt:1 ans*k:2351088 cnt*k:24
+k:23 L:36 R:35 st:23 ed:40 hash:195925
+k:23 ans:195924 cnt:1 ans*k:4506252 cnt*k:23
+k:22 L:35 R:34 st:21 ed:39 hash:360106
+k:22 ans:360107 cnt:1 ans*k:7922354 cnt*k:22
+k:21 L:35 R:34 st:21 ed:40 hash:720213
+k:21 ans:720213 cnt:1 ans*k:15124473 cnt*k:21
+k:20 L:34 R:33 st:19 ed:39 hash:1408682
+k:20 ans:1408682 cnt:1 ans*k:28173640 cnt*k:20
+k:19 L:34 R:33 st:19 ed:40 hash:2817365
+k:19 ans:2817364 cnt:1 ans*k:53529916 cnt*k:19
+k:18 L:33 R:32 st:17 ed:39 hash:5602986
+k:18 ans:5602987 cnt:1 ans*k:100853766 cnt*k:18
+k:17 L:33 R:32 st:17 ed:40 hash:11205973
+k:17 ans:11205973 cnt:1 ans*k:190501541 cnt*k:17
+k:16 L:32 R:31 st:15 ed:39 hash:22380202
+k:16 ans:22380202 cnt:1 ans*k:358083232 cnt*k:16
+k:15 L:32 R:31 st:15 ed:40 hash:44760405
+k:15 ans:44760404 cnt:1 ans*k:671406060 cnt*k:15
+k:14 L:31 R:30 st:13 ed:39 hash:89489066
+k:14 ans:89489067 cnt:1 ans*k:1252846938 cnt*k:14
+k:13 L:31 R:30 st:13 ed:40 hash:178978133
+k:13 ans:178978133 cnt:1 ans*k:2326715729 cnt*k:13
+k:12 L:30 R:29 st:11 ed:39 hash:357924522
+k:12 ans:357924522 cnt:1 ans*k:4295094264 cnt*k:12
+k:11 L:30 R:29 st:11 ed:40 hash:715849045
+k:11 ans:715849044 cnt:1 ans*k:7874339484 cnt*k:11
+k:10 L:29 R:28 st:9 ed:39 hash:433421993
+k:10 ans:433421992 cnt:1 ans*k:4334219920 cnt*k:10
+k:9 L:29 R:28 st:9 ed:40 hash:866843987
+k:9 ans:866843987 cnt:1 ans*k:7801595883 cnt*k:9
+k:8 ans:866843987 cnt:8 ans*k:6934751896 cnt*k:64
+k:7 ans:866843987 cnt:28 ans*k:6067907909 cnt*k:196
+k:6 ans:866843987 cnt:56 ans*k:5201063922 cnt*k:336
+k:5 ans:866843987 cnt:70 ans*k:4334219935 cnt*k:350
+k:4 ans:866843987 cnt:56 ans*k:3467375948 cnt*k:224
+k:3 ans:866843987 cnt:28 ans*k:2600531961 cnt*k:84
+k:2 ans:866843987 cnt:8 ans*k:1733687974 cnt*k:16
+k:1 ans:866843987 cnt:1 ans*k:866843987 cnt*k:1
+424454556 84 898156407 658

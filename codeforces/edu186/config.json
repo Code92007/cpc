@@ -1,0 +1,200 @@
+{
+  "grayConfig": {
+    "1001": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1002": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1003": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1004": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1005": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1006": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1007": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1008": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      }
+    },
+    "1009": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1010": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1011": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1012": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1013": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1014": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1015": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 0
+      }
+    },
+    "1016": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      }
+    },
+    "1017": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      }
+    },
+    "1018": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      }
+    },
+    "1019": {
+      "machine": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      },
+      "human": {
+        "shopIdStart": 0,
+        "shopIdEnd": 20
+      }
+    }
+  },
+  "shopIdWhiteList": [
+    1008597683286755,
+    1979782956,
+    1107718034,
+    122711213
+  ]
+}
