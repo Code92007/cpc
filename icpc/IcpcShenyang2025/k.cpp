@@ -26,7 +26,7 @@ P a[N];
 struct node{
     int x,y,ax,ay,id;
     node(int xx,int yy,int aax,int aay,int aid):x(xx),y(yy),ax(aax),ay(aay),id(aid){}
-},now;
+}now;
 bool operator<(node a,node b){
     if(a.ax!=b.bx)return a.ax<b.ax;
     return a.ay<b.ay;
